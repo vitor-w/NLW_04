@@ -1,1 +1,8 @@
 1 - Unit Testing
+
+2 - Integration testing
+
+-> request -> route -> controller -> repository
+<- repository <- controller <- response
+
+3 - End to End (E2E) <- Front-end type test
